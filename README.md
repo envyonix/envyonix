@@ -1,8 +1,5 @@
 <div align="center">
   <h1>:drop_of_blood: Envyonix</h1>
-  <p><code>python ~/projects/blood_cloner_v1</code></p>
-  <img src="https://i.ibb.co/54Dc8cb/Discordclone.jpg" width="500" alt="Blood Cloner Screenshot"/>
-  <br/>
   <a href="https://github.com/Envyonix/Blood-Cloner"><img src="https://img.shields.io/github/v/release/Envyonix/Blood-Cloner" alt="Latest Release"></a>
   <a href="https://github.com/Envyonix"><img src="https://img.shields.io/github/followers/Envyonix?label=Follow&style=social" alt="GitHub Followers"></a>
 </div>
@@ -56,14 +53,4 @@ GitHub: https://github.com/Envyonix
 
 ---
 
-### :drop_of_blood: Fun Terminal Animations
-
-```bash
-$ while true; do echo "$(date +'%H:%M:%S') > Running Blood Cloner V1..."; sleep 1; done
-$ python main.py --guild-source <ID> --guild-target <ID>
-$ echo "Copy complete! 🚀"
-```
-
----
-
-**:drop_of_blood: Blood Cloner V1 | Developed by Envyonix**
+**:drop_of_blood:  Envyonix**
