@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>:drop_of_blood: Envyonix</h1>
+  <h1> 🩸 Envyonix</h1>
   <a href="https://github.com/Envyonix/Blood-Cloner"><img src="https://img.shields.io/github/v/release/Envyonix/Blood-Cloner" alt="Latest Release"></a>
   <a href="https://github.com/Envyonix"><img src="https://img.shields.io/github/followers/Envyonix?label=Follow&style=social" alt="GitHub Followers"></a>
 </div>
@@ -30,7 +30,7 @@ Git & Version Control  ####### 80%
 
 ---
 
-## :zap: Featured Projects
+## ⚡ Featured Projects
 
 | Project | Description | Repo |
 |---------|-------------|------|
@@ -40,7 +40,7 @@ Git & Version Control  ####### 80%
 
 ---
 
-## :bar_chart: GitHub Stats
+## 📶 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Envyonix&show_icons=true&theme=dark" alt="GitHub Stats">
@@ -49,4 +49,4 @@ Git & Version Control  ####### 80%
 
 ---
 
-**:drop_of_blood:  Envyonix**
+** 🩸  Envyonix**
