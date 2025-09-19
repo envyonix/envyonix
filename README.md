@@ -12,6 +12,8 @@ $ whoami
 Envyonix
 
 $ location
+United Kingdom
+
 🌍 Discord Developer | Minecraft Developer | Python Enthusiast
 
 $ projects
@@ -25,12 +27,6 @@ Discord.py  ########### 45%
 APIs & Automation  ###### 65%
 Docker & Linux  ###### 60%
 Git & Version Control  ####### 80%
-
-$ connect
-Discord: https://discord.gg/
-Instagram: https://www.instagram.com/
-GitHub: https://github.com/Envyonix
-```
 
 ---
 
